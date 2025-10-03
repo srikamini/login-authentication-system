@@ -20,5 +20,8 @@ It includes user registration, login, and dashboard navigation.
 Follow these steps to run the project locally:
 
 ### 1. Clone the repository
-```bash
-git clone https://github.com/srikamini/login-auth-system.git
+
+git clone https://github.com/srikamini/login-auth-system.git.
+### open your webbrowser and access the application @http://localhost:3000/
+
+
